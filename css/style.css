@@ -1,0 +1,49 @@
+.h1Index{
+    background-color: rgb(27, 27, 27);
+    color: aliceblue;
+    text-align: center;
+}
+
+.guitarra{
+    height: 100%;
+    width: 100%;
+    opacity: 0.25;
+    
+    }
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: black;
+    height: 30px;
+}
+
+.facebook {
+    color: blue;
+}
+
+.instagram {
+    color: magenta;
+}
+
+.footer a {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+.divindex{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+.fondocontacto{
+    background-image: url(../guitarraMain.jpg);
+    height: 1000px;
+    width: 1519px;
+}
+
+.boton{
+    margin-left: 50%;
+}
